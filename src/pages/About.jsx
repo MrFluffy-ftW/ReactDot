@@ -1,3 +1,3 @@
 export default function About() {
-  return "Home";
+  return <div> Press Home In The Navbar</div>;
 }
